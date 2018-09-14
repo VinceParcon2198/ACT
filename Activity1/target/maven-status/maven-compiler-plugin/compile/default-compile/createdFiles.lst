@@ -1,0 +1,8 @@
+com\fimc\resource\WorkerResource.class
+com\fimc\Activity1\JerseyConfig.class
+com\fimc\resource\CalculatorResponse.class
+com\fimc\resource\WorkerResponse.class
+com\fimc\resource\CalculatorResource.class
+com\fimc\resource\WorkerRequest.class
+com\fimc\resource\CalculatorRequest.class
+com\fimc\Activity1\Application.class
